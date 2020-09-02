@@ -1,0 +1,419 @@
+body{
+    background-image: url(https://drive.google.com/uc?export=view&id=1FZj7nIzofxlOE45eN55RrN6LcUGmY7Pt);
+}
+
+.rec1{
+    background-image:url(https://drive.google.com/uc?export=view&id=1NomTp2PCLlNIvGAurNeZDaQ95edu_2lX);
+    opacity: 0.78;
+    position: fixed;
+    left: 0px;
+    top:0px;
+    width: 100%;
+    height:120px;
+
+}
+
+.h22{
+    font-size: 20px;
+    font-family: 'Open Sans', sans-serif;
+    color:#59656F;
+    font-weight: 300;
+    text-transform: none;
+    position: absolute;
+    left: 5.145px;
+    top: 50px;
+}
+h2{
+    font-size: 35px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight:700 ;
+    color:#1D1E2C;
+    text-transform: none;
+    position: absolute;
+    left: 25.145px;
+    top: 450px;
+}
+
+#bg{
+    background-color: #AC9FBB;
+}
+
+.imgi{
+    background-image: url(https://drive.google.com/uc?export=view&id=10z1xNsSNmJGbLhXdGE7srSy8Fclevlp5);
+    position: absolute;
+    transition: 1s;
+    left: 550px;
+    top: 189px;
+    width: 700;
+    height: 480;
+}
+
+.imgi:hover{
+    background-image: url(https://drive.google.com/uc?export=view&id=1r1YR8WCoRYnTX5qt2V9j33QFWx4Am_s5);
+    transition: 1s;
+    position: absolute;
+    left: 550px;
+    top: 189px;
+    width: 700px;
+    height: 480px;
+}
+/***********************nav bar portion******************************/
+
+.index{
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    color:#1D1E2C;
+    text-transform: uppercase;
+    position: absolute;
+    left: 60px;
+    top: 4px;
+}
+.contact{
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    color:#59656F;
+    text-transform: uppercase;
+    position: absolute;
+    transition:0.4s;
+    left: 180px;
+    top: 4px;
+    }
+    
+.contact:hover{
+    font-size: 25px;
+    position: absolute;
+    top: 2px;
+    color:#1D1E2C;
+    transition:0.4s;
+    }
+
+.about{
+    font-size: 22px;
+    font-family: 'Open Sans', sans-serif;
+    color:#59656F;
+    text-transform: uppercase;
+    position: absolute;
+    transition:0.4s;
+    left: 360px;
+    top: 4px;
+    }
+        
+.about:hover{
+    font-size: 25px;
+    position: absolute;
+    top: 2px;
+    color:#1D1E2C;
+    transition:0.4s;
+    }
+    
+
+.rbox1{
+        background-image: url(https://drive.google.com/uc?export=view&id=1w81FCuQhbw89xPgiuE_9ORnxXHy4BCzB) ;
+        position: absolute;
+        border-radius: 14px;
+        background-repeat: no-repeat;
+        left:33px;
+        top: 122px;
+        width:1280px ;
+        height: 67px;
+    }
+
+
+
+
+.quote{
+    font-size: 25;
+    font-family: 'Open Sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    position: absolute;
+    left: 25.145px;
+    top: 222px;
+}
+
+.name{
+    font-size: 25;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 700;
+    color: #59656F;
+    font-style: normal;
+    position: absolute;
+    left: 25.145px;
+    top: 327px;
+}
+
+h4{
+    font-size: 20;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    color: #373838;
+    font-style: normal;
+    position: absolute;
+    left: 860.145px;
+    top: 77px;
+}
+
+
+
+
+.main{
+    background-image: url(https://drive.google.com/uc?export=view&id=1F-RJ5hBzLt0kpeJN8nhZjd5913Osev7d);
+    background-repeat: no-repeat;
+    opacity: 100;
+    position: fixed;
+    left:515px;
+    top:-76px;
+    width: 350px;
+    height: 245px;
+}
+
+
+
+.rbs{
+    background-image: url(foot.png) ;
+    position: absolute;
+    left:0px;
+    top: 700px;
+    width:100% ;
+    height: 155%;
+
+}
+
+input[type=text]{
+    width: 42%;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background: #DDBDD5;
+    color: #1D1E2C;
+    padding: 12px 20px;
+    margin-top: 740px;
+    margin-left: 390px;
+    display: inline-block;
+    outline: none;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+  }
+  
+  input[type=submit]{
+    width: 7%;
+    font-family: 'Open Sans', sans-serif;
+    background: #59656F;
+    color: #DDBDD5;
+    transition: 1.0s;
+    padding: 12px 20px;
+    margin-top: 5px;
+    margin-left: 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-sizing: border-box;
+    
+  }
+  input[type=submit]:hover{
+    width: 7%;
+    font-family: 'Open Sans', sans-serif;
+    background: #1D1E2C;
+    color: #DDBDD5;
+    transition: 1.0s;
+    padding: 12px 20px;
+    margin-top: 5px;
+    margin-left: 0px;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    box-sizing: border-box;
+    cursor: pointer;
+    outline: none;
+  }
+
+.fill{
+    background-image: url(https://drive.google.com/uc?export=view&id=1u2BQ6b8G41VerkwnzlJCsE5OaOHF4i1Z);
+    position: absolute;
+    transition: 1s;
+    left: 250px;
+    top: 80px;
+    width: 800px;
+    height: 536px;
+}
+.fill:hover{
+    background-image: url(https://drive.google.com/uc?export=view&id=1WAPREbmONF2pBK-1GYJTiwKO9OdUJZFD);
+    position: absolute;
+    transition: 1s;
+    left: 250px;
+    top: 80px;
+    width: 800px;
+    height: 536px;
+}
+
+.foot{
+    background-image: url(https://drive.google.com/uc?export=view&id=1uZcnf-UgZAaIZiMdhZM-7CFqUcbCYoFe);
+    position: absolute;
+    top: 1680px;
+    left: 0px;
+    width: 100%;
+}
+
+h5{
+    font-size: 15;
+    color: #F7EBEC;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+}
+
+.insta{
+    position: absolute;
+    left: 500px;
+    top: 24px;
+}
+
+.linkedin{
+    position: absolute;
+    left: 820px;
+    top: 24px;
+}
+
+.sea{
+    font-size: 25;
+    color: #1D1E2C;
+    font-family: 'Open Sans', sans-serif;
+    position: absolute;
+    left: 570px;
+    top: 670px;
+}
+.two{
+    background-image: url(Minimal\ Movie\ Posters.png);
+    position: absolute;
+    transition: 1s;
+    left: 30px;
+    top: 80px;
+    width:200px;
+    height: 280px;
+}
+
+.two:hover{
+    background-image: url(Minimal\ Movie\ Posters2.png);
+    position: absolute;
+    transition: 1s;
+    left: 30px;
+    top: 80px;
+    width:200px;
+    height: 280px;
+}
+
+.it{
+    background-image: url(it.png);
+    position: absolute;
+    transition: 1s;
+    left: 30px;
+    top: 380px;
+    width:200px;
+    height: 300px;
+}
+
+.it:hover{
+    background-image: url(it2.png);
+    position: absolute;
+    transition: 1s;
+    left: 30px;
+    top: 380px;
+    width:200px;
+    height: 300px;
+}
+
+
+.ts{
+    background-image: url(ts.png);
+    position: absolute;
+    transition: 1s;
+    left: 1090px;
+    top: 400px;
+    width:150px;
+    height: 225px;
+}
+
+.ts:hover{
+    background-image: url(ts2.png);
+    position: absolute;
+    transition: 1s;
+    left: 1090px;
+    top: 400px;
+    width:150px;
+    height: 225px;
+}
+
+.in{
+    background-image: url(in.png);
+    position: absolute;
+    transition: 1s;
+    left: 1215px;
+    top: 338px;
+    width:130px;
+    height: 182px;
+}
+.in:hover{
+    background-image: url(in2.png);
+    position: absolute;
+    transition: 1s;
+    left: 1215px;
+    top: 338px;
+    width:130px;
+    height: 182px;
+}
+
+.mem{
+    background-image: url(mem.png);
+    position: absolute;
+    transition: 1s;
+    left: 190px;
+    top: 45px;
+    width:100px;
+    height: 150px;
+}
+.mem:hover{
+    background-image: url(mem2.png);
+    position: absolute;
+    transition: 1s;
+    left: 190px;
+    top: 45px;
+    width:100px;
+    height: 150px;
+}
+
+.nine{
+    background-image: url(9.png);
+    position: absolute;
+    transition: 1s;
+    left: 200px;
+    top: 545px;
+    width:100px;
+    height: 155px;
+}
+
+.nine:hover{
+    background-image: url(92.png);
+    position: absolute;
+    transition: 1s;
+    left: 200px;
+    top: 545px;
+    width:100px;
+    height: 155px;
+}
+.sus{
+    background-image: url(sus1.png);
+    position: absolute;
+    transition: 1s;
+    left: 1110px;
+    top: 310px;
+    width:100px;
+    height: 150px;
+}
+
+.sus:hover{
+    background-image: url(sus2.png);
+    position: absolute;
+    transition: 1s;
+    left: 1110px;
+    top: 310px;
+    width:100px;
+    height: 150px;
+}
